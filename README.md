@@ -5,8 +5,8 @@ This is my first ever time using python, I will propably keep updating ts for a 
 Anyway here is a tutorial on how u will use it:
 
 **Guess The Number Game Tutorial**
-1. Download the code 🡻
-2. Run it on the terminal ▶︎
+1. Download the file from the releases 🡻
+2. Run it ▶︎
 3. A window will open.. enjoy 🗖
 
 **𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓: If Windows says that u cant run it cause you have no program to run it you have to download VS:** https://code.visualstudio.com/
